@@ -1,3 +1,5 @@
+package com.aoisonori.test.greet;
+
 public class TestApp {
 
 	public static void main(String[] args) {
